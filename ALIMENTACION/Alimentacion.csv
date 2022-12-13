@@ -1,0 +1,324 @@
+﻿edad,sexo,e_profesional,c_academico,trabaja,e_civil,v_frutas,r_grasas,l_etiquetas,b_alcoholicas,agua,comer_deshoras,c_dulces,peso,Diagnostico
+Más de 21 años,Femenino,EPIS,IX,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,IX,No,Soltero,3 porciones de verduras y 2 frutas,Poco,A veces,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Frecuentemente,Nunca,Menos de 6 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Frecuentemente,Una vez al año,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Peso normal,Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Casi nunca,Cada fin de semana,Menos de 6 vasos,Tengo que trabajar y estudiar,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,A veces,Una vez al mes,Más de 8 vasos,Exámenes Parciales,0 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Frecuentemente,Una vez al año,Más de 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Sobrepeso,Saludable
+Más de 21 años,Femenino,EPIS,IX,No,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Frecuentemente,Nunca,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Masculino,EPIS,IX,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Una vez al mes,Más de 8 vasos,Falta de apoyo económico,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Nunca,Entre 6 a 8 vasos,Exámenes Parciales,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Casi nunca,Cada fin de semana,Menos de 6 vasos,Vivo lejos a la universidad,4 a 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Nunca,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Obesidad,Saludable
+Más de 21 años,Masculino,EPIS,IX,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Nunca,Menos de 12 veces al año,Menos de 6 vasos,Exámenes Parciales,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,IX,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Frecuentemente,Menos de 12 veces al año,Más de 8 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,No,Soltero,3 porciones de verduras y 2 frutas,Mucho,Nunca,Una vez al mes,Más de 8 vasos,Exámenes Parciales,Menos de 3 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Femenino,EPIS,IX,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Una vez al mes,Entre 6 a 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Peso normal,Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Casi nunca,Una vez al mes,Más de 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Sobrepeso,No Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,5 porciones de verduras y 4 frutas,Nada,A veces,Nunca,Menos de 6 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Nunca,Más de 8 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,X,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,X,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Menos de 12 veces al año,Menos de 6 vasos,Falta de apoyo económico,Más de 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Siempre,Una vez al mes,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Siempre,Una vez al mes,Más de 8 vasos,Falta de apoyo económico,4 a 7 dulces,Peso normal,Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Una vez al año,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,4 porciones de verduras y 3 frutas,Poco,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,X,No,Soltero,4 porciones de verduras y 3 frutas,Poco,Casi nunca,Menos de 12 veces al año,Menos de 6 vasos,Vivo lejos a la universidad,0 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Sobrepeso,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Nunca,Nunca,Menos de 6 vasos,Vivo lejos a la universidad,Más de 7 dulces,Sobrepeso,No Saludable
+Más de 21 años,Femenino,EPIS,X,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Nunca,Nunca,Entre 6 a 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Nunca,Una vez al año,Menos de 6 vasos,Falta de apoyo económico,4 a 7 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,Casi nunca,Cada fin de semana,Menos de 6 vasos,Exámenes Parciales,0 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Cada fin de semana,Más de 8 vasos,Presentación de proyectos Finales,0 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Siempre,Cada fin de semana,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Obesidad,Saludable
+Más de 21 años,Masculino,EPIS,IV,No,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Nunca,Cada fin de semana,Menos de 6 vasos,Falta de apoyo económico,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,III,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Menos de 12 veces al año,Menos de 6 vasos,Falta de apoyo económico,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,3 porciones de verduras y 2 frutas,Poco,A veces,Cada fin de semana,Más de 8 vasos,Exámenes Parciales,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Casi nunca,Cada fin de semana,Más de 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Nunca,Nunca,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIS,V,No,Soltero,3 porciones de verduras y 2 frutas,Mucho,Siempre,Cada fin de semana,Más de 8 vasos,Exámenes Parciales,4 a 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Siempre,Nunca,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,A veces,Una vez al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,III,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Una vez al año,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Una vez al mes,Menos de 6 vasos,Presentación de proyectos Finales,4 a 7 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPIS,V,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Siempre,Una vez al año,Más de 8 vasos,Exámenes Parciales,4 a 7 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPIS,III,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,III,No,Otro,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Una vez al mes,Más de 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Casi nunca,Una vez al mes,Entre 6 a 8 vasos,Falta de apoyo económico,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Frecuentemente,Cada fin de semana,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Frecuentemente,Cada fin de semana,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Nunca,Menos de 6 vasos,Vivo lejos a la universidad,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,VI,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Nunca,Una vez al mes,Entre 6 a 8 vasos,Falta de apoyo económico,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIA,VI,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Cada fin de semana,Menos de 6 vasos,Exámenes Parciales,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,A veces,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Más de 7 dulces,Sobrepeso,No Saludable
+Más de 21 años,Masculino,EPIA,VI,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Casi nunca,Una vez al mes,Más de 8 vasos,Presentación de proyectos Finales,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,V,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Menos de 12 veces al año,Menos de 6 vasos,Tengo que trabajar y estudiar,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Cada fin de semana,Menos de 6 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Nunca,Menos de 12 veces al año,Más de 8 vasos,Exámenes Parciales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Casi nunca,Una vez al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,0 dulces,Obesidad,Saludable
+Menos de 18 años,Masculino,EPIA,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,Nunca,Cada fin de semana,Entre 6 a 8 vasos,Exámenes Parciales,Menos de 3 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Nunca,Menos de 6 vasos,Falta de apoyo económico,0 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,A veces,Una vez al año,Más de 8 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,A veces,Una vez al año,Más de 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,A veces,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Sobrepeso,No Saludable
+Menos de 18 años,Masculino,EPIA,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,Siempre,Una vez al año,Más de 8 vasos,Vivo lejos a la universidad,0 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,A veces,Cada fin de semana,Menos de 6 vasos,Vivo lejos a la universidad,4 a 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Siempre,Una vez al mes,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Nunca,Una vez al año,Más de 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Frecuentemente,Una vez al mes,Más de 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Conviviente,3 porciones de verduras y 2 frutas,Poco,Nunca,Cada fin de semana,Más de 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,A veces,Una vez al año,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Sobrepeso,No Saludable
+Más de 21 años,Masculino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Nunca,Cada fin de semana,Menos de 6 vasos,Falta de apoyo económico,Menos de 3 dulces,Sobrepeso,No Saludable
+Menos de 18 años,Masculino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,A veces,Nunca,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Cada fin de semana,Entre 6 a 8 vasos,Falta de apoyo económico,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Una vez al mes,Menos de 6 vasos,Falta de apoyo económico,Menos de 3 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Femenino,EPIA,X,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,Siempre,Cada fin de semana,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,Frecuentemente,Una vez al mes,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Frecuentemente,Una vez al año,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Menos de 18 años,Masculino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Nunca,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Sobrepeso,No Saludable
+Más de 21 años,Femenino,EPIA,IX,Sí,Conviviente,5 porciones de verduras y 4 frutas,Demasiado,Nunca,Nunca,Entre 6 a 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIA,IX,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Frecuentemente,Menos de 12 veces al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Obesidad,No Saludable
+Más de 21 años,Femenino,EPIA,VI,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Nunca,Nunca,Entre 6 a 8 vasos,Falta de apoyo económico,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIA,IX,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,X,Sí,Conviviente,3 porciones de verduras y 2 frutas,Demasiado,Nunca,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,0 dulces,Obesidad,Saludable
+Más de 21 años,Femenino,EPIA,VIII,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Siempre,Cada fin de semana,Más de 8 vasos,Exámenes Parciales,4 a 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Menos de 12 veces al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Casado,4 porciones de verduras y 3 frutas,Poco,Nunca,Cada fin de semana,Menos de 6 vasos,Falta de apoyo económico,4 a 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Casi nunca,Nunca,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Nunca,Cada fin de semana,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,0 dulces,Sobrepeso,No Saludable
+Más de 21 años,Femenino,EPIA,IX,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Siempre,Cada fin de semana,Menos de 6 vasos,Vivo lejos a la universidad,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VIII,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,A veces,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Femenino,EPIA,X,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Nunca,Entre 6 a 8 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Femenino,EPIA,I,Sí,Otro,4 porciones de verduras y 3 frutas,Poco,Siempre,Menos de 12 veces al año,Más de 8 vasos,Exámenes Parciales,4 a 7 dulces,Sobrepeso,No Saludable
+Más de 21 años,Masculino,EPIA,I,Sí,Casado,4 porciones de verduras y 3 frutas,Poco,A veces,Una vez al año,Menos de 6 vasos,Presentación de proyectos Finales,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Una vez al mes,Más de 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Frecuentemente,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Menos de 18 años,Femenino,EPIA,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Una vez al año,Más de 8 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIA,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Frecuentemente,Menos de 12 veces al año,Más de 8 vasos,Vivo lejos a la universidad,0 dulces,Obesidad,Saludable
+Más de 21 años,Femenino,EPIA,IX,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Casi nunca,Nunca,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Siempre,Cada fin de semana,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Frecuentemente,Cada fin de semana,Menos de 6 vasos,Vivo lejos a la universidad,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Cada fin de semana,Más de 8 vasos,Tengo que trabajar y estudiar,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Casi nunca,Nunca,Menos de 6 vasos,Falta de apoyo económico,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,A veces,Una vez al año,Menos de 6 vasos,Tengo que trabajar y estudiar,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Falta de apoyo económico,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,4 porciones de verduras y 3 frutas,Poco,A veces,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Cada fin de semana,Entre 6 a 8 vasos,Falta de apoyo económico,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Siempre,Una vez al año,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,4 porciones de verduras y 3 frutas,Poco,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Exámenes Parciales,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Nunca,Una vez al mes,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Nunca,Cada fin de semana,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Menos de 12 veces al año,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,A veces,Una vez al año,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Sobrepeso,Saludable
+Más de 21 años,Masculino,EPIAM,III,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Frecuentemente,Una vez al mes,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,A veces,Menos de 12 veces al año,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Siempre,Una vez al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Una vez al mes,Menos de 6 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Peso normal,No Saludable
+Menos de 18 años,Femenino,EPIAM,III,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Una vez al mes,Más de 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Menos de 12 veces al año,Menos de 6 vasos,Tengo que trabajar y estudiar,0 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Nunca,Una vez al año,Más de 8 vasos,Vivo lejos a la universidad,0 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,A veces,Cada fin de semana,Más de 8 vasos,Falta de apoyo económico,0 dulces,Obesidad,Saludable
+Menos de 18 años,Masculino,EPIAM,I,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Nunca,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Siempre,Nunca,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,A veces,Nunca,Más de 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Frecuentemente,Nunca,Menos de 6 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Frecuentemente,Menos de 12 veces al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,IV,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Siempre,Una vez al año,Menos de 6 vasos,Vivo lejos a la universidad,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,4 porciones de verduras y 3 frutas,Poco,Siempre,Una vez al mes,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPIAM,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Menos de 12 veces al año,Más de 8 vasos,Falta de apoyo económico,4 a 7 dulces,Peso normal,No Saludable
+Menos de 18 años,Femenino,EPIAM,I,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Casi nunca,Una vez al mes,Menos de 6 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Siempre,Cada fin de semana,Más de 8 vasos,Exámenes Parciales,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Menos de 12 veces al año,Más de 8 vasos,Falta de apoyo económico,4 a 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,Casi nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Conviviente,3 porciones de verduras y 2 frutas,Mucho,A veces,Una vez al año,Menos de 6 vasos,Vivo lejos a la universidad,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,3 porciones de verduras y 2 frutas,Nada,A veces,Cada fin de semana,Menos de 6 vasos,Exámenes Parciales,Menos de 3 dulces,Sobrepeso,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,A veces,Cada fin de semana,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Una vez al año,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Peso normal,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Siempre,Cada fin de semana,Menos de 6 vasos,Exámenes Parciales,0 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPIAM,IV,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Cada fin de semana,Menos de 6 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Peso normal,No Saludable
+Menos de 18 años,Femenino,EPIAM,I,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Nunca,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Una vez al mes,Más de 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Nunca,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Siempre,Nunca,Menos de 6 vasos,Exámenes Parciales,Más de 7 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Menos de 12 veces al año,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Nunca,Una vez al mes,Más de 8 vasos,Tengo que trabajar y estudiar,0 dulces,Peso normal,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Nunca,Más de 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Casi nunca,Una vez al mes,Más de 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,A veces,Cada fin de semana,Más de 8 vasos,Falta de apoyo económico,4 a 7 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Una vez al año,Más de 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,5 porciones de verduras y 4 frutas,Nada,Siempre,Cada fin de semana,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Siempre,Una vez al mes,Menos de 6 vasos,Presentación de proyectos Finales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPAE,IX,No,Soltero,4 porciones de verduras y 3 frutas,Poco,A veces,Menos de 12 veces al año,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Sobrepeso,Saludable
+Más de 21 años,Femenino,EPAE,VII,No,Conviviente,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Nunca,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Nunca,Nunca,Menos de 6 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Siempre,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,A veces,Nunca,Más de 8 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Casi nunca,Una vez al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPAE,VIII,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Nunca,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPAE,VIII,Sí,Otro,5 porciones de verduras y 4 frutas,Demasiado,Siempre,Una vez al mes,Más de 8 vasos,Presentación de proyectos Finales,0 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Nunca,Una vez al año,Menos de 6 vasos,Vivo lejos a la universidad,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Una vez al mes,Más de 8 vasos,Falta de apoyo económico,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VII,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Nunca,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Una vez al mes,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,3 porciones de verduras y 2 frutas,Mucho,Casi nunca,Una vez al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Más de 7 dulces,Sobrepeso,No Saludable
+Más de 21 años,Masculino,EPAE,VI,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Frecuentemente,Cada fin de semana,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Frecuentemente,Nunca,Entre 6 a 8 vasos,Exámenes Parciales,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,A veces,Menos de 12 veces al año,Entre 6 a 8 vasos,Falta de apoyo económico,4 a 7 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Siempre,Cada fin de semana,Menos de 6 vasos,Presentación de proyectos Finales,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Una vez al mes,Menos de 6 vasos,Presentación de proyectos Finales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Una vez al mes,Más de 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Nunca,Una vez al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,No,Soltero,5 porciones de verduras y 4 frutas,Nada,Siempre,Nunca,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Cada fin de semana,Más de 8 vasos,Exámenes Parciales,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Nunca,Menos de 12 veces al año,Más de 8 vasos,Vivo lejos a la universidad,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Nunca,Más de 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Casi nunca,Nunca,Más de 8 vasos,Vivo lejos a la universidad,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VI,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,5 porciones de verduras y 4 frutas,Nada,Casi nunca,Nunca,Menos de 6 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Siempre,Una vez al mes,Más de 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Masculino,EPAE,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Una vez al mes,Entre 6 a 8 vasos,Falta de apoyo económico,4 a 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,A veces,Una vez al año,Menos de 6 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Frecuentemente,Una vez al mes,Menos de 6 vasos,Vivo lejos a la universidad,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Menos de 12 veces al año,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Nunca,Nunca,Menos de 6 vasos,Vivo lejos a la universidad,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,A veces,Menos de 12 veces al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VII,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Nunca,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Siempre,Nunca,Más de 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Nunca,Nunca,Menos de 6 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Mucho,A veces,Menos de 12 veces al año,Más de 8 vasos,Exámenes Parciales,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Frecuentemente,Cada fin de semana,Menos de 6 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Casi nunca,Una vez al año,Menos de 6 vasos,Vivo lejos a la universidad,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPAE,VIII,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Peso normal,Saludable
+Más de 21 años,Masculino,EPAE,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Mucho,Nunca,Cada fin de semana,Menos de 6 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Sobrepeso,No Saludable
+Más de 21 años,Femenino,EPAE,VII,Sí,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Una vez al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Siempre,Menos de 12 veces al año,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,5 porciones de verduras y 4 frutas,Nada,Nunca,Una vez al año,Más de 8 vasos,Vivo lejos a la universidad,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Exámenes Parciales,0 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Femenino,EPAE,IX,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Casi nunca,Una vez al mes,Menos de 6 vasos,Falta de apoyo económico,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,Frecuentemente,Una vez al mes,Menos de 6 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Una vez al año,Más de 8 vasos,Exámenes Parciales,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,No,Soltero,5 porciones de verduras y 4 frutas,Nada,Siempre,Una vez al año,Menos de 6 vasos,Vivo lejos a la universidad,4 a 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VII,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Casi nunca,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Siempre,Nunca,Menos de 6 vasos,Exámenes Parciales,4 a 7 dulces,Peso normal,Saludable
+Más de 21 años,Masculino,EPC,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Nunca,Una vez al mes,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Obesidad,No Saludable
+Más de 21 años,Femenino,EPC,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Una vez al mes,Más de 8 vasos,Falta de apoyo económico,Más de 7 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPC,V,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Siempre,Una vez al mes,Menos de 6 vasos,Vivo lejos a la universidad,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,3 porciones de verduras y 2 frutas,Nada,A veces,Una vez al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Menos de 12 veces al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPC,V,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Cada fin de semana,Menos de 6 vasos,Falta de apoyo económico,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Frecuentemente,Menos de 12 veces al año,Más de 8 vasos,Falta de apoyo económico,Más de 7 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Frecuentemente,Cada fin de semana,Menos de 6 vasos,Exámenes Parciales,Más de 7 dulces,Peso normal,No Saludable
+Más de 21 años,Femenino,EPC,V,Sí,Otro,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Una vez al mes,Más de 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,A veces,Una vez al año,Más de 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,A veces,Cada fin de semana,Entre 6 a 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,Nunca,Cada fin de semana,Entre 6 a 8 vasos,Falta de apoyo económico,4 a 7 dulces,Obesidad,No Saludable
+Más de 21 años,Masculino,EPC,V,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Cada fin de semana,Menos de 6 vasos,Vivo lejos a la universidad,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Menos de 12 veces al año,Menos de 6 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Nunca,Nunca,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Nunca,Una vez al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Siempre,Nunca,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Sobrepeso,Saludable
+Más de 21 años,Femenino,EPC,V,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Una vez al mes,Menos de 6 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Siempre,Cada fin de semana,Entre 6 a 8 vasos,Vivo lejos a la universidad,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Cada fin de semana,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Nunca,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Una vez al mes,Más de 8 vasos,Tengo que trabajar y estudiar,0 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Una vez al año,Más de 8 vasos,Falta de apoyo económico,Más de 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,A veces,Menos de 12 veces al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Una vez al año,Menos de 6 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPC,VI,Sí,Soltero,3 porciones de verduras y 2 frutas,Mucho,Frecuentemente,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPC,VI,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Menos de 12 veces al año,Menos de 6 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Sobrepeso,No Saludable
+Más de 21 años,Femenino,EPC,VI,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Frecuentemente,Una vez al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Masculino,EPC,VI,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Siempre,Una vez al año,Menos de 6 vasos,Falta de apoyo económico,0 dulces,Obesidad,Saludable
+Más de 21 años,Femenino,EPC,VI,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Casi nunca,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,0 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Nunca,Menos de 12 veces al año,Más de 8 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Casi nunca,Una vez al año,Menos de 6 vasos,Falta de apoyo económico,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,A veces,Una vez al año,Menos de 6 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPC,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Una vez al año,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Frecuentemente,Una vez al mes,Menos de 6 vasos,Falta de apoyo económico,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,A veces,Nunca,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Obesidad,No Saludable
+Menos de 18 años,Masculino,EPC,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Nunca,Entre 6 a 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Nunca,Una vez al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Casi nunca,Nunca,Menos de 6 vasos,Vivo lejos a la universidad,Más de 7 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPC,II,No,Otro,5 porciones de verduras y 4 frutas,Mucho,Siempre,Cada fin de semana,Menos de 6 vasos,Presentación de proyectos Finales,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Cada fin de semana,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Nunca,Cada fin de semana,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Casi nunca,Nunca,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,No,Soltero,4 porciones de verduras y 3 frutas,Nada,Nunca,Nunca,Más de 8 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Femenino,EPC,II,No,Soltero,3 porciones de verduras y 2 frutas,Nada,Siempre,Una vez al año,Más de 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,A veces,Una vez al año,Más de 8 vasos,Falta de apoyo económico,0 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Una vez al año,Menos de 6 vasos,Falta de apoyo económico,4 a 7 dulces,Peso normal,Saludable
+Más de 21 años,Femenino,EPC,II,No,Conviviente,3 porciones de verduras y 2 frutas,Poco,A veces,Cada fin de semana,Más de 8 vasos,Falta de apoyo económico,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Frecuentemente,Una vez al año,Más de 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Conviviente,4 porciones de verduras y 3 frutas,Nada,Casi nunca,Una vez al año,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Sobrepeso,No Saludable
+Menos de 18 años,Femenino,EPC,II,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Siempre,Nunca,Entre 6 a 8 vasos,Presentación de proyectos Finales,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Frecuentemente,Una vez al mes,Más de 8 vasos,Falta de apoyo económico,0 dulces,Sobrepeso,Saludable
+Menos de 18 años,Masculino,EPC,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Siempre,Una vez al año,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,A veces,Cada fin de semana,Menos de 6 vasos,Tengo que trabajar y estudiar,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Casi nunca,Una vez al mes,Entre 6 a 8 vasos,Falta de apoyo económico,Más de 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,5 porciones de verduras y 4 frutas,Mucho,Siempre,Una vez al año,Más de 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,No,Soltero,5 porciones de verduras y 4 frutas,Nada,Casi nunca,Nunca,Menos de 6 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Nada,Frecuentemente,Una vez al año,Más de 8 vasos,Falta de apoyo económico,4 a 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Siempre,Nunca,Entre 6 a 8 vasos,Exámenes Parciales,Más de 7 dulces,Sobrepeso,Saludable
+Más de 21 años,Femenino,EPEPI,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Nada,Casi nunca,Menos de 12 veces al año,Más de 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Vivo lejos a la universidad,0 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Casi nunca,Una vez al mes,Más de 8 vasos,Presentación de proyectos Finales,0 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Casi nunca,Una vez al año,Entre 6 a 8 vasos,Vivo lejos a la universidad,4 a 7 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,3 porciones de verduras y 2 frutas,Poco,Siempre,Una vez al año,Entre 6 a 8 vasos,Exámenes Parciales,0 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,3 porciones de verduras y 2 frutas,Nada,A veces,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,A veces,Nunca,Más de 8 vasos,Exámenes Parciales,Menos de 3 dulces,Sobrepeso,Saludable
+Más de 21 años,Femenino,EPEPI,IV,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Frecuentemente,Una vez al mes,Menos de 6 vasos,Presentación de proyectos Finales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Nunca,Una vez al mes,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,No,Soltero,4 porciones de verduras y 3 frutas,Poco,Frecuentemente,Una vez al mes,Menos de 6 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Siempre,Nunca,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,A veces,Una vez al año,Entre 6 a 8 vasos,Exámenes Parciales,Menos de 3 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Siempre,Cada fin de semana,Más de 8 vasos,Exámenes Parciales,Menos de 3 dulces,Peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Nunca,Menos de 12 veces al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,4 a 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Frecuentemente,Nunca,Más de 8 vasos,Vivo lejos a la universidad,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,3 porciones de verduras y 2 frutas,Mucho,Casi nunca,Menos de 12 veces al año,Más de 8 vasos,Falta de apoyo económico,0 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Frecuentemente,Nunca,Más de 8 vasos,Exámenes Parciales,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,3 porciones de verduras y 2 frutas,Poco,A veces,Cada fin de semana,Menos de 6 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Cada fin de semana,Menos de 6 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Peso normal,No Saludable
+Más de 21 años,Masculino,EPEPI,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Siempre,Menos de 12 veces al año,Más de 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Masculino,EPEPI,IV,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Casi nunca,Una vez al año,Menos de 6 vasos,Falta de apoyo económico,Menos de 3 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Nunca,Una vez al mes,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Casi nunca,Nunca,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,0 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Nunca,Nunca,Más de 8 vasos,Falta de apoyo económico,Más de 7 dulces,Peso normal,Saludable
+Más de 21 años,Masculino,EPEPI,VIII,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,A veces,Una vez al mes,Más de 8 vasos,Vivo lejos a la universidad,Más de 7 dulces,Obesidad,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Casi nunca,Una vez al mes,Más de 8 vasos,Exámenes Parciales,Más de 7 dulces,Obesidad,No Saludable
+Más de 21 años,Femenino,EPEPI,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Nunca,Menos de 12 veces al año,Menos de 6 vasos,Tengo que trabajar y estudiar,Menos de 3 dulces,Peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,5 porciones de verduras y 4 frutas,Poco,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Exámenes Parciales,0 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Femenino,EPEPI,VIII,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Siempre,Menos de 12 veces al año,Menos de 6 vasos,Exámenes Parciales,Más de 7 dulces,Debajo de su peso normal,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Siempre,Una vez al año,Entre 6 a 8 vasos,Falta de apoyo económico,4 a 7 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,3 porciones de verduras y 2 frutas,Mucho,Siempre,Nunca,Más de 8 vasos,Presentación de proyectos Finales,0 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Masculino,EPEPI,I,Sí,Soltero,4 porciones de verduras y 3 frutas,Poco,Frecuentemente,Una vez al año,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Obesidad,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,4 porciones de verduras y 3 frutas,Poco,Nunca,Nunca,Menos de 6 vasos,Vivo lejos a la universidad,4 a 7 dulces,Sobrepeso,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,5 porciones de verduras y 4 frutas,Demasiado,Casi nunca,Una vez al año,Entre 6 a 8 vasos,Presentación de proyectos Finales,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Masculino,EPEPI,VIII,No,Soltero,4 porciones de verduras y 3 frutas,Demasiado,Frecuentemente,Una vez al año,Menos de 6 vasos,Falta de apoyo económico,Menos de 3 dulces,Obesidad,Saludable
+Más de 21 años,Masculino,EPEPI,VIII,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Siempre,Menos de 12 veces al año,Más de 8 vasos,Falta de apoyo económico,4 a 7 dulces,Peso normal,Saludable
+Más de 21 años,Masculino,EPEPI,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Demasiado,Casi nunca,Nunca,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,0 dulces,Obesidad,Saludable
+Más de 21 años,Femenino,EPEPI,I,Sí,Casado,5 porciones de verduras y 4 frutas,Poco,A veces,Nunca,Más de 8 vasos,Exámenes Parciales,0 dulces,Obesidad,Saludable
+Más de 21 años,Femenino,EPEPI,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Nunca,Una vez al mes,Menos de 6 vasos,Tengo que trabajar y estudiar,Más de 7 dulces,Obesidad,No Saludable
+Más de 21 años,Femenino,EPEPI,II,No,Soltero,4 porciones de verduras y 3 frutas,Nada,A veces,Una vez al año,Entre 6 a 8 vasos,Tengo que trabajar y estudiar,4 a 7 dulces,Peso normal,No Saludable
+Menos de 18 años,Femenino,EPEPI,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Mucho,Siempre,Cada fin de semana,Menos de 6 vasos,Falta de apoyo económico,Más de 7 dulces,Debajo de su peso normal,Saludable
+Entre 18 a 21 años,Masculino,EPEPI,I,Sí,Soltero,3 porciones de verduras y 2 frutas,Poco,Siempre,Cada fin de semana,Entre 6 a 8 vasos,Presentación de proyectos Finales,0 dulces,Obesidad,No Saludable
+Menos de 18 años,Masculino,EPEPI,I,Sí,Soltero,5 porciones de verduras y 4 frutas,Poco,Frecuentemente,Cada fin de semana,Más de 8 vasos,Exámenes Parciales,Menos de 3 dulces,Debajo de su peso normal,Saludable
+Más de 21 años,Femenino,EPEPI,I,No,Soltero,4 porciones de verduras y 3 frutas,Nada,A veces,Cada fin de semana,Menos de 6 vasos,Presentación de proyectos Finales,4 a 7 dulces,Obesidad,No Saludable
+Más de 21 años,Femenino,EPEPI,I,Sí,Conviviente,4 porciones de verduras y 3 frutas,Mucho,Frecuentemente,Una vez al mes,Más de 8 vasos,Exámenes Parciales,0 dulces,Debajo de su peso normal,Saludable
+Menos de 18 años,Femenino,EPEPI,II,Sí,Soltero,3 porciones de verduras y 2 frutas,Nada,Casi nunca,Menos de 12 veces al año,Menos de 6 vasos,Vivo lejos a la universidad,0 dulces,Debajo de su peso normal,No Saludable
+Más de 21 años,Masculino,EPEPI,I,Sí,Conviviente,5 porciones de verduras y 4 frutas,Mucho,Siempre,Menos de 12 veces al año,Entre 6 a 8 vasos,Falta de apoyo económico,Menos de 3 dulces,Sobrepeso,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,I,Sí,Conviviente,3 porciones de verduras y 2 frutas,Nada,Frecuentemente,Menos de 12 veces al año,Menos de 6 vasos,Presentación de proyectos Finales,0 dulces,Debajo de su peso normal,No Saludable
+Menos de 18 años,Masculino,EPEPI,I,No,Soltero,4 porciones de verduras y 3 frutas,Mucho,Siempre,Nunca,Más de 8 vasos,Falta de apoyo económico,4 a 7 dulces,Peso normal,Saludable

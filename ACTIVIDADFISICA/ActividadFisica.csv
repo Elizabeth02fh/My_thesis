@@ -1,0 +1,324 @@
+﻿edad,sexo,e_profesional,c_academico,trabaja,e_civil,a_moderadas,a_intensas,f_muscular,f_tendones,f_televisor,t_caminar,Diagnostico
+Más de 21 años,Femenino,EPIS,IX,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,30 min,No Saludable
+Más de 21 años,Masculino,EPIS,IX,No,Soltero,2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Más de 10 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Ninguno,Menos de 4 h,30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,4 a 7 h,30 min,Saludable
+Más de 21 años,Femenino,EPIS,IX,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,IX,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,Menos de 2 h y 30 min,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,4 a 7 h,30 min,Saludable
+Más de 21 años,Masculino,EPIS,IX,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,IX,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Menos de 4 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IX,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPIS,IX,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,IX,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,X,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,X,No,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,Menos de 4 h,30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,2 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,4 a 7 h,30 min,Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,7 a 10 h,30 min,Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Ninguno,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,X,No,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,7 a 10 h,30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPIS,X,Sí,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Menos de 15 s,Más de 10 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,Más de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,Menos de 30 min,Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,4 a 7 h,Más de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,X,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIS,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,III,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,Más de 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Menos de 4 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,V,No,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,III,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,Más de 10 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIS,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,III,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIS,III,No,Otro,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,2 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIS,IV,Sí,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,2 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIS,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,VI,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Más de 2 días,15 a 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,VI,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,Menos de 4 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Menos de 4 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIA,VI,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Menos de 4 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,2 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,2 h,Menos de 30 min,No Saludable
+Menos de 18 años,Masculino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,2 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Menos de 15 s,Más de 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,I,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,7 a 10 h,Más de 30 min,Saludable
+Menos de 18 años,Masculino,EPIA,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,2 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Conviviente,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,2 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Más de 10 h,Más de 30 min,No Saludable
+Más de 21 años,Masculino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,2 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,30 min,No Saludable
+Menos de 18 años,Masculino,EPIA,II,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,2 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,2 h,30 min,No Saludable
+Más de 21 años,Femenino,EPIA,X,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,2 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,VI,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,4 a 7 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,2 h,Menos de 30 min,No Saludable
+Menos de 18 años,Masculino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPIA,IX,Sí,Conviviente,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Ninguno,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,IX,Sí,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPIA,VI,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Más de 10 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,IX,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,X,Sí,Conviviente,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPIA,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Casado,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,II,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,2 h,30 min,Saludable
+Más de 21 años,Femenino,EPIA,IX,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPIA,X,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPIA,I,Sí,Otro,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Menos de 4 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIA,I,Sí,Casado,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Menos de 4 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIA,I,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Menos de 18 años,Femenino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,2 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIA,I,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPIA,IX,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIAM,III,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,Más de 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,2 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,4 a 7 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Menos de 4 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Soltero,2 h y 30 min a 5 h,Más de 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,2 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIAM,III,Sí,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,7 a 10 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIAM,III,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,30 min,Saludable
+Menos de 18 años,Femenino,EPIAM,III,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIAM,I,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,4 a 7 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Menos de 18 años,Masculino,EPIAM,I,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Menos de 4 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,Menos de 2 h y 30 min,Más de 2 h y 30 min,Menos de 2 días,15 a 30 s,Más de 10 h,Más de 30 min,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Más de 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,4 a 7 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPIAM,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,30 min,No Saludable
+Menos de 18 años,Femenino,EPIAM,I,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,4 a 7 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,Sí,Conviviente,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,7 a 10 h,30 min,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPIAM,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,4 a 7 h,Más de 30 min,No Saludable
+Menos de 18 años,Femenino,EPIAM,I,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,2 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,III,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPIAM,I,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Ninguno,Menos de 4 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,4 a 7 h,30 min,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,No,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Más de 10 h,Más de 30 min,No Saludable
+Menos de 18 años,Masculino,EPIAM,I,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPIAM,I,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,7 a 10 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPIAM,III,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,30 min,Saludable
+Más de 21 años,Masculino,EPAE,IX,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPAE,VII,No,Conviviente,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,4 a 7 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,IV,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Menos de 4 h,30 min,Saludable
+Más de 21 años,Masculino,EPAE,VIII,Sí,Soltero,2 h y 30 min a 5 h,Más de 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,30 min,Saludable
+Más de 21 años,Masculino,EPAE,VIII,Sí,Otro,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VII,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Menos de 15 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,2 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Más de 2 días,Ninguno,4 a 7 h,30 min,No Saludable
+Más de 21 años,Masculino,EPAE,VI,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,2 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,No,Soltero,Menos de 2 h y 30 min,Más de 2 h y 30 min,Menos de 2 días,Menos de 15 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,4 a 7 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VI,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Ninguno,2 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,No,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,7 a 10 h,30 min,No Saludable
+Más de 21 años,Masculino,EPAE,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Ninguno,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,2 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPAE,V,Sí,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,4 a 7 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,Más de 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Ninguno,7 a 10 h,30 min,No Saludable
+Más de 21 años,Masculino,EPAE,VIII,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,2 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPAE,VII,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPAE,IX,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPAE,VIII,No,Soltero,Menos de 2 h y 30 min,Más de 2 h y 30 min,Menos de 2 días,15 a 30 s,2 h,Menos de 30 min,Saludable
+Más de 21 años,Masculino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Menos de 4 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPC,V,Sí,Otro,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Menos de 4 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,No,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,4 a 7 h,30 min,No Saludable
+Más de 21 años,Masculino,EPC,V,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Ninguno,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Más de 30 min,No Saludable
+Más de 21 años,Femenino,EPC,V,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Más 30 s,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Más de 10 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,7 a 10 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,7 a 10 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPC,V,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,2 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,V,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,VI,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,VI,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,2 h,Más de 30 min,No Saludable
+Más de 21 años,Femenino,EPC,VI,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,No Saludable
+Más de 21 años,Masculino,EPC,VI,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Ninguno,2 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPC,VI,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,30 min,Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,30 min,Saludable
+Más de 21 años,Masculino,EPC,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,7 a 10 h,30 min,Saludable
+Menos de 18 años,Masculino,EPC,II,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,2 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,II,No,Otro,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Menos de 4 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Más de 10 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,II,No,Soltero,2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPC,II,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Más de 10 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPC,II,No,Conviviente,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,7 a 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPC,II,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Conviviente,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Menos de 18 años,Femenino,EPC,II,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,Más de 10 h,Más de 30 min,No Saludable
+Menos de 18 años,Masculino,EPC,II,Sí,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPC,II,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,2 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,2 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Más de 10 h,Más de 30 min,No Saludable
+Más de 21 años,Femenino,EPEPI,IV,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Menos de 15 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,No,Soltero,Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,7 a 10 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,2 h,Menos de 30 min,Saludable
+Más de 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,2 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,4 a 7 h,Menos de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,No,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,7 a 10 h,30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,7 a 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,Más de 2 h y 30 min,Menos de 2 días,Más 30 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,No,Soltero,Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,7 a 10 h,Más de 30 min,No Saludable
+Más de 21 años,Masculino,EPEPI,IV,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Menos de 4 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPEPI,IV,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Más de 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,IV,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPEPI,VIII,Sí,Soltero,Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Más de 10 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Más de 10 h,30 min,No Saludable
+Más de 21 años,Femenino,EPEPI,VIII,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Menos de 4 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPEPI,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,7 a 10 h,Más de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,30 min,No Saludable
+Entre 18 a 21 años,Masculino,EPEPI,I,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,2 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Menos de 4 h,Menos de 30 min,No Saludable
+Entre 18 a 21 años,Femenino,EPEPI,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Masculino,EPEPI,VIII,No,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPEPI,VIII,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPEPI,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,2 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPEPI,I,Sí,Casado,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,7 a 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPEPI,I,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPEPI,II,No,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,Saludable
+Menos de 18 años,Femenino,EPEPI,I,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Masculino,EPEPI,I,Sí,Soltero,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,Más de 10 h,Menos de 30 min,No Saludable
+Menos de 18 años,Masculino,EPEPI,I,Sí,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,4 a 7 h,Más de 30 min,Saludable
+Más de 21 años,Femenino,EPEPI,I,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable
+Más de 21 años,Femenino,EPEPI,I,Sí,Conviviente,Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,4 a 7 h,Menos de 30 min,No Saludable
+Menos de 18 años,Femenino,EPEPI,II,Sí,Soltero,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Más de 21 años,Masculino,EPEPI,I,Sí,Conviviente,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,4 a 7 h,Más de 30 min,Saludable
+Entre 18 a 21 años,Femenino,EPEPI,I,Sí,Conviviente,2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,4 a 7 h,Más de 30 min,Saludable
+Menos de 18 años,Masculino,EPEPI,I,No,Soltero,2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,Más de 10 h,Menos de 30 min,No Saludable

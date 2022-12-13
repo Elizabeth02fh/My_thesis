@@ -1,0 +1,324 @@
+﻿edad,sexo,e_profesional,c_academico,trabaja,e_civil,personalidad,ansiedad,a_horas_clases,h_sueño,c_espacios,s_academica,Diagnostico
+Más de 10 años,Femenino,EPIS,IX,No,Soltero,Intolerancia,Trabajos finales,Desinterés por las clases,Más de 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Más de 10 años,Masculino,EPIS,IX,No,Soltero,Intolerancia,Exposiciones finales,Fatiga o cansancio,Más de 8 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IX,No,Soltero,Intolerancia,Trabajos finales,Fatiga o cansancio,7 a 8 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Más de 10 años,Masculino,EPIS,IX,Sí,Soltero,Prepotencia,Trabajos finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Más de 10 años,Masculino,EPIS,IX,Sí,Soltero,Empatía,Trabajos grupales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IX,No,Soltero,Prepotencia,Trabajos finales,Fatiga o cansancio,Menos de 7 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Prepotencia,Trabajos grupales,Desmotivado,Menos de 7 h,Jugar algún deporte,Exigencia del curso,Saludable
+Más de 10 años,Femenino,EPIS,IX,No,Soltero,Empatía,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,Jugar videojuegos,Exigencia del curso,No Saludable
+Más de 10 años,Masculino,EPIS,IX,No,Soltero,Empatía,Exámenes,Fatiga o cansancio,Más de 8 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIS,IX,Sí,Soltero,Flexibilidad,Trabajos finales,Desinterés por las clases,Más de 8 h,Bailar,Dificultad para concentrarte,Saludable
+Más de 10 años,Masculino,EPIS,IX,Sí,Soltero,Prepotencia,Exposiciones finales,Expresión de deprimido,Más de 8 h,Jugar videojuegos,Carga de horario,Saludable
+Más de 10 años,Masculino,EPIS,IX,Sí,Soltero,Empatía,Exposiciones finales,Expresión de deprimido,7 a 8 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,IX,No,Soltero,Empatía,Trabajos finales,Fatiga o cansancio,Más de 8 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPIS,IX,Sí,Soltero,Flexibilidad,Exámenes,Expresión de deprimido,Más de 8 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IX,No,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,7 a 8 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Más de 10 años,Femenino,EPIS,IX,No,Soltero,Prepotencia,Exámenes,Expresión de desvelado u ojeroso,7 a 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,IX,Sí,Soltero,Intolerancia,Trabajos finales,Expresión de desvelado u ojeroso,7 a 8 h,Jugar algún deporte,Dificultad para concentrarte,No Saludable
+Más de 10 años,Masculino,EPIS,X,No,Soltero,Flexibilidad,Trabajos finales,Expresión de deprimido,Más de 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Más de 10 años,Masculino,EPIS,X,No,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,7 a 8 h,Bailar,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,X,Sí,Soltero,Empatía,Trabajos finales,Desinterés por las clases,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPIS,X,No,Soltero,Intolerancia,Trabajos finales,Fatiga o cansancio,7 a 8 h,Jugar algún deporte,Exigencia del curso,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,7 a 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Intolerancia,Trabajos grupales,Desmotivado,7 a 8 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Flexibilidad,Exposiciones finales,Desinterés por las clases,Menos de 7 h,Ausencia de lugares para sentirte mejor,Carga de horario,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Prepotencia,Exámenes,Desmotivado,Más de 8 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,X,No,Soltero,Empatía,Exámenes,Expresión de desvelado u ojeroso,Más de 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIS,X,No,Soltero,Intolerancia,Trabajos finales,Expresión de deprimido,Más de 8 h,No me alcanza tiempo,Carga de horario,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Intolerancia,Exposiciones finales,Desmotivado,7 a 8 h,Jugar algún deporte,Carga de horario,Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Flexibilidad,Exposiciones finales,Expresión de deprimido,7 a 8 h,Bailar,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPIS,X,Sí,Soltero,Flexibilidad,Trabajos grupales,Desmotivado,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Intolerancia,Trabajos finales,Desinterés por las clases,7 a 8 h,Jugar videojuegos,Carga de horario,Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Empatía,Exámenes,Expresión de desvelado u ojeroso,Más de 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Flexibilidad,Exposiciones finales,Expresión de deprimido,7 a 8 h,Jugar algún deporte,Dificultad para concentrarte,No Saludable
+Más de 10 años,Masculino,EPIS,X,Sí,Soltero,Empatía,Exámenes,Desinterés por las clases,Menos de 7 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Más de 10 años,Masculino,EPIS,X,No,Soltero,Intolerancia,Exámenes,Expresión de deprimido,7 a 8 h,Jugar videojuegos,Dificultad con el material de estudio,No Saludable
+Más de 10 años,Masculino,EPIS,IV,No,Soltero,Prepotencia,Exposiciones finales,Desmotivado,7 a 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPIS,III,Sí,Soltero,Flexibilidad,Trabajos grupales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,No,Soltero,Flexibilidad,Exámenes,Desinterés por las clases,Menos de 7 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,No,Soltero,Intolerancia,Exposiciones finales,Desmotivado,Menos de 7 h,Bailar,Carga de horario,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,No,Soltero,Flexibilidad,Trabajos grupales,Desinterés por las clases,7 a 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPIS,V,No,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,Menos de 7 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,No,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,Sí,Soltero,Prepotencia,Trabajos finales,Desinterés por las clases,Menos de 7 h,No me alcanza tiempo,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIS,III,No,Soltero,Empatía,Exámenes,Expresión de desvelado u ojeroso,7 a 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,Sí,Soltero,Empatía,Exposiciones finales,Expresión de deprimido,Más de 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Más de 10 años,Masculino,EPIS,V,No,Soltero,Flexibilidad,Exposiciones finales,Expresión de deprimido,7 a 8 h,Bailar,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,III,No,Soltero,Empatía,Exámenes,Expresión de deprimido,7 a 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPIS,III,No,Otro,Prepotencia,Exposiciones finales,Fatiga o cansancio,7 a 8 h,Bailar,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,Sí,Soltero,Prepotencia,Exposiciones finales,Expresión de desvelado u ojeroso,Más de 8 h,Jugar videojuegos,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,Sí,Soltero,Prepotencia,Exámenes,Expresión de deprimido,7 a 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIS,IV,Sí,Soltero,Prepotencia,Exámenes,Fatiga o cansancio,Más de 8 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPIS,IV,Sí,Soltero,Flexibilidad,Exposiciones finales,Desmotivado,Menos de 7 h,Jugar videojuegos,Carga de horario,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,VI,Sí,Soltero,Flexibilidad,Trabajos finales,Desinterés por las clases,7 a 8 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,VI,Sí,Soltero,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,Más de 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,VI,Sí,Soltero,Empatía,Trabajos finales,Desmotivado,7 a 8 h,Jugar algún deporte,Carga de horario,Saludable
+Más de 10 años,Masculino,EPIA,VI,Sí,Soltero,Prepotencia,Exposiciones finales,Desinterés por las clases,Más de 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPIA,V,Sí,Soltero,Empatía,Exposiciones finales,Desmotivado,Menos de 7 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,VI,Sí,Soltero,Intolerancia,Exposiciones finales,Fatiga o cansancio,Más de 8 h,Ausencia de lugares para sentirte mejor,Carga de horario,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,I,Sí,Soltero,Flexibilidad,Trabajos finales,Desmotivado,Más de 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIA,I,Sí,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,7 a 8 h,No me alcanza tiempo,Carga de horario,No Saludable
+Menos de 08 años,Masculino,EPIA,I,Sí,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,7 a 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Prepotencia,Exposiciones finales,Expresión de deprimido,Más de 8 h,No me alcanza tiempo,Carga de horario,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Prepotencia,Trabajos finales,Desmotivado,7 a 8 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Intolerancia,Exámenes,Desinterés por las clases,Más de 8 h,Bailar,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIA,I,Sí,Soltero,Empatía,Trabajos finales,Expresión de deprimido,Más de 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPIA,II,Sí,Soltero,Prepotencia,Trabajos finales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Menos de 08 años,Masculino,EPIA,II,Sí,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,Más de 8 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Empatía,Trabajos grupales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIA,I,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,VI,Sí,Soltero,Prepotencia,Trabajos finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,II,Sí,Soltero,Prepotencia,Exámenes,Expresión de desvelado u ojeroso,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Prepotencia,Trabajos finales,Fatiga o cansancio,Más de 8 h,Bailar,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,Más de 8 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,VI,Sí,Conviviente,Intolerancia,Exposiciones finales,Desinterés por las clases,Menos de 7 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Empatía,Trabajos grupales,Desmotivado,Más de 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Más de 10 años,Masculino,EPIA,II,Sí,Soltero,Empatía,Trabajos grupales,Desmotivado,7 a 8 h,Bailar,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Femenino,EPIA,II,Sí,Soltero,Empatía,Exámenes,Fatiga o cansancio,Menos de 7 h,Bailar,Dificultad para concentrarte,No Saludable
+Menos de 08 años,Masculino,EPIA,II,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,II,Sí,Soltero,Empatía,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,Bailar,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Prepotencia,Exámenes,Expresión de deprimido,Más de 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Femenino,EPIA,X,Sí,Soltero,Flexibilidad,Trabajos finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,VI,Sí,Soltero,Intolerancia,Trabajos grupales,Desinterés por las clases,7 a 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPIA,II,Sí,Soltero,Flexibilidad,Exámenes,Fatiga o cansancio,7 a 8 h,Jugar algún deporte,Dificultad con el material de estudio,No Saludable
+Menos de 08 años,Masculino,EPIA,II,Sí,Soltero,Intolerancia,Trabajos grupales,Fatiga o cansancio,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPIA,IX,Sí,Conviviente,Flexibilidad,Exámenes,Desmotivado,7 a 8 h,Jugar videojuegos,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Prepotencia,Exámenes,Desmotivado,Menos de 7 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPIA,IX,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de deprimido,7 a 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,No Saludable
+Más de 10 años,Femenino,EPIA,VI,Sí,Soltero,Flexibilidad,Trabajos finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,IX,Sí,Soltero,Empatía,Exámenes,Expresión de desvelado u ojeroso,Más de 8 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,X,Sí,Conviviente,Empatía,Exámenes,Expresión de desvelado u ojeroso,7 a 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Más de 10 años,Femenino,EPIA,VIII,Sí,Soltero,Prepotencia,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Intolerancia,Trabajos grupales,Desmotivado,Más de 8 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Casado,Intolerancia,Exposiciones finales,Expresión de deprimido,7 a 8 h,Bailar,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,II,Sí,Soltero,Intolerancia,Exámenes,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,I,Sí,Soltero,Empatía,Trabajos finales,Fatiga o cansancio,Más de 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPIA,IX,Sí,Soltero,Flexibilidad,Exposiciones finales,Fatiga o cansancio,Menos de 7 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,VIII,Sí,Soltero,Prepotencia,Exámenes,Expresión de deprimido,Menos de 7 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIA,I,Sí,Soltero,Flexibilidad,Exposiciones finales,Expresión de desvelado u ojeroso,Más de 8 h,Bailar,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPIA,X,Sí,Soltero,Flexibilidad,Trabajos finales,Expresión de desvelado u ojeroso,7 a 8 h,Bailar,Carga de horario,Saludable
+Más de 10 años,Femenino,EPIA,I,Sí,Otro,Empatía,Trabajos grupales,Desinterés por las clases,Menos de 7 h,Jugar algún deporte,Exigencia del curso,Saludable
+Más de 10 años,Masculino,EPIA,I,Sí,Casado,Flexibilidad,Exámenes,Fatiga o cansancio,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,I,Sí,Soltero,Intolerancia,Trabajos finales,Expresión de deprimido,Menos de 7 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Masculino,EPIA,I,Sí,Soltero,Empatía,Exámenes,Fatiga o cansancio,Más de 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Menos de 08 años,Femenino,EPIA,I,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,7 a 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPIA,I,Sí,Soltero,Empatía,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Más de 10 años,Femenino,EPIA,IX,Sí,Soltero,Prepotencia,Exámenes,Desmotivado,Más de 8 h,Bailar,Dificultad con el material de estudio,Saludable
+Más de 10 años,Masculino,EPIAM,III,Sí,Soltero,Flexibilidad,Exposiciones finales,Expresión de desvelado u ojeroso,Menos de 7 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Prepotencia,Trabajos grupales,Desinterés por las clases,7 a 8 h,Jugar videojuegos,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,Más de 8 h,Bailar,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,I,No,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,IV,Sí,Soltero,Intolerancia,Exámenes,Desinterés por las clases,Menos de 7 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,III,Sí,Soltero,Prepotencia,Trabajos finales,Expresión de deprimido,7 a 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,No,Soltero,Intolerancia,Exámenes,Fatiga o cansancio,Menos de 7 h,No me alcanza tiempo,Carga de horario,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,III,Sí,Soltero,Prepotencia,Exámenes,Fatiga o cansancio,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,Sí,Soltero,Empatía,Exámenes,Expresión de deprimido,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,No,Soltero,Flexibilidad,Exámenes,Expresión de deprimido,Más de 8 h,Jugar videojuegos,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,Sí,Soltero,Empatía,Trabajos finales,Fatiga o cansancio,7 a 8 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,III,Sí,Soltero,Prepotencia,Trabajos grupales,Desmotivado,7 a 8 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,III,Sí,Soltero,Intolerancia,Trabajos finales,Fatiga o cansancio,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,Sí,Soltero,Prepotencia,Exposiciones finales,Expresión de deprimido,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Prepotencia,Trabajos grupales,Expresión de deprimido,Más de 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Más de 10 años,Masculino,EPIAM,III,Sí,Soltero,Prepotencia,Exámenes,Expresión de desvelado u ojeroso,7 a 8 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,III,Sí,Soltero,Empatía,Exámenes,Expresión de deprimido,Menos de 7 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIAM,III,Sí,Soltero,Empatía,Trabajos grupales,Desinterés por las clases,Más de 8 h,Bailar,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,No,Soltero,Empatía,Exposiciones finales,Expresión de deprimido,7 a 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Menos de 08 años,Femenino,EPIAM,III,No,Soltero,Flexibilidad,Trabajos finales,Fatiga o cansancio,7 a 8 h,Jugar algún deporte,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,III,Sí,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,Menos de 7 h,Jugar videojuegos,Dificultad para concentrarte,Saludable
+Más de 10 años,Masculino,EPIAM,I,Sí,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,7 a 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,I,Sí,Soltero,Empatía,Trabajos grupales,Expresión de desvelado u ojeroso,Menos de 7 h,Jugar videojuegos,Exigencia del curso,Saludable
+Menos de 08 años,Masculino,EPIAM,I,No,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,7 a 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Flexibilidad,Trabajos finales,Expresión de deprimido,Menos de 7 h,Jugar algún deporte,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,No,Soltero,Prepotencia,Exámenes,Expresión de deprimido,Más de 8 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Empatía,Trabajos grupales,Fatiga o cansancio,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Menos de 08 años,Masculino,EPIAM,I,Sí,Soltero,Intolerancia,Trabajos finales,Desmotivado,7 a 8 h,Bailar,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,IV,No,Soltero,Flexibilidad,Trabajos grupales,Desinterés por las clases,Menos de 7 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,I,No,Soltero,Flexibilidad,Trabajos grupales,Fatiga o cansancio,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPIAM,I,Sí,Soltero,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,Jugar videojuegos,Carga de horario,Saludable
+Menos de 08 años,Femenino,EPIAM,I,No,Soltero,Prepotencia,Exámenes,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPIAM,I,No,Soltero,Empatía,Exámenes,Expresión de deprimido,Más de 8 h,Jugar algún deporte,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Prepotencia,Exámenes,Expresión de desvelado u ojeroso,Más de 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,I,No,Soltero,Flexibilidad,Exposiciones finales,Expresión de deprimido,Menos de 7 h,Jugar algún deporte,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,Sí,Conviviente,Intolerancia,Trabajos finales,Desinterés por las clases,7 a 8 h,Ausencia de lugares para sentirte mejor,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPIAM,I,No,Soltero,Flexibilidad,Trabajos grupales,Expresión de deprimido,7 a 8 h,Bailar,Carga de horario,Saludable
+Menos de 08 años,Masculino,EPIAM,I,Sí,Soltero,Empatía,Trabajos grupales,Expresión de desvelado u ojeroso,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,No,Soltero,Empatía,Trabajos grupales,Fatiga o cansancio,Más de 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Menos de 08 años,Masculino,EPIAM,I,Sí,Soltero,Flexibilidad,Exposiciones finales,Desinterés por las clases,Menos de 7 h,Jugar algún deporte,Carga de horario,Saludable
+Más de 10 años,Masculino,EPIAM,IV,Sí,Soltero,Flexibilidad,Exposiciones finales,Desmotivado,7 a 8 h,Bailar,Dificultad para concentrarte,No Saludable
+Menos de 08 años,Femenino,EPIAM,I,No,Soltero,Flexibilidad,Trabajos finales,Fatiga o cansancio,7 a 8 h,Jugar videojuegos,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,No,Soltero,Intolerancia,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,III,No,Soltero,Empatía,Exposiciones finales,Expresión de desvelado u ojeroso,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,No,Soltero,Flexibilidad,Trabajos grupales,Expresión de deprimido,Menos de 7 h,Jugar algún deporte,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPIAM,I,No,Soltero,Intolerancia,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Flexibilidad,Trabajos grupales,Desinterés por las clases,Más de 8 h,Ausencia de lugares para sentirte mejor,Dificultad con el material de estudio,Saludable
+Menos de 08 años,Masculino,EPIAM,I,No,Soltero,Empatía,Trabajos grupales,Desmotivado,7 a 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Menos de 08 años,Masculino,EPIAM,I,Sí,Soltero,Empatía,Exposiciones finales,Desinterés por las clases,Más de 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,No,Soltero,Empatía,Trabajos finales,Desmotivado,7 a 8 h,Bailar,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,Sí,Soltero,Intolerancia,Trabajos finales,Desmotivado,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPIAM,I,No,Soltero,Prepotencia,Exámenes,Expresión de desvelado u ojeroso,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,No,Soltero,Prepotencia,Exposiciones finales,Fatiga o cansancio,7 a 8 h,Bailar,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPIAM,III,No,Soltero,Prepotencia,Exámenes,Fatiga o cansancio,Más de 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,No Saludable
+Más de 10 años,Masculino,EPAE,IX,No,Soltero,Empatía,Exposiciones finales,Expresión de desvelado u ojeroso,7 a 8 h,Bailar,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Femenino,EPAE,VII,No,Conviviente,Intolerancia,Trabajos grupales,Expresión de deprimido,7 a 8 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,VIII,Sí,Soltero,Flexibilidad,Trabajos grupales,Expresión de deprimido,Más de 8 h,Jugar algún deporte,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Empatía,Trabajos grupales,Desmotivado,7 a 8 h,Jugar videojuegos,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Masculino,EPAE,VIII,Sí,Soltero,Empatía,Trabajos finales,Desinterés por las clases,Más de 8 h,Jugar algún deporte,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Femenino,EPAE,IV,Sí,Soltero,Prepotencia,Trabajos grupales,Desinterés por las clases,Más de 8 h,Bailar,Exigencia del curso,Saludable
+Más de 10 años,Masculino,EPAE,VIII,Sí,Soltero,Prepotencia,Trabajos finales,Desmotivado,Más de 8 h,Bailar,Exigencia del curso,Saludable
+Más de 10 años,Masculino,EPAE,VIII,Sí,Otro,Flexibilidad,Trabajos finales,Desmotivado,Más de 8 h,No me alcanza tiempo,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,Sí,Soltero,Intolerancia,Exámenes,Desinterés por las clases,7 a 8 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,Sí,Soltero,Flexibilidad,Exposiciones finales,Expresión de desvelado u ojeroso,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VII,Sí,Soltero,Prepotencia,Trabajos finales,Desmotivado,Menos de 7 h,Bailar,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,No,Soltero,Flexibilidad,Trabajos finales,Expresión de desvelado u ojeroso,Más de 8 h,Bailar,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,No,Soltero,Intolerancia,Trabajos finales,Desmotivado,Menos de 7 h,Bailar,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,No,Soltero,Intolerancia,Exámenes,Desmotivado,Más de 8 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Más de 10 años,Masculino,EPAE,VI,Sí,Soltero,Empatía,Exámenes,Expresión de deprimido,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,Sí,Soltero,Flexibilidad,Trabajos grupales,Desinterés por las clases,Menos de 7 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,Sí,Soltero,Empatía,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,Jugar algún deporte,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,No,Soltero,Flexibilidad,Exámenes,Desmotivado,7 a 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,Sí,Soltero,Empatía,Exámenes,Fatiga o cansancio,7 a 8 h,Jugar videojuegos,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,Sí,Soltero,Prepotencia,Exámenes,Desmotivado,Menos de 7 h,Jugar algún deporte,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,Sí,Soltero,Prepotencia,Trabajos finales,Desinterés por las clases,Menos de 7 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,No,Soltero,Empatía,Exposiciones finales,Expresión de deprimido,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,No,Soltero,Prepotencia,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,Sí,Soltero,Flexibilidad,Exámenes,Desmotivado,7 a 8 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,Sí,Soltero,Flexibilidad,Trabajos finales,Desinterés por las clases,Menos de 7 h,Jugar algún deporte,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,Sí,Soltero,Flexibilidad,Trabajos grupales,Fatiga o cansancio,7 a 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VI,Sí,Soltero,Empatía,Trabajos grupales,Fatiga o cansancio,Más de 8 h,Jugar videojuegos,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,No,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,Más de 8 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,No,Soltero,Prepotencia,Exposiciones finales,Fatiga o cansancio,Más de 8 h,Bailar,Exigencia del curso,No Saludable
+Más de 10 años,Masculino,EPAE,V,Sí,Soltero,Flexibilidad,Trabajos finales,Fatiga o cansancio,Menos de 7 h,Jugar videojuegos,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,No,Soltero,Flexibilidad,Exposiciones finales,Fatiga o cansancio,Menos de 7 h,Jugar algún deporte,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,Sí,Soltero,Prepotencia,Exposiciones finales,Expresión de desvelado u ojeroso,7 a 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,Sí,Soltero,Empatía,Trabajos finales,Desinterés por las clases,7 a 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Masculino,EPAE,V,Sí,Soltero,Intolerancia,Exámenes,Expresión de deprimido,7 a 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,V,No,Soltero,Flexibilidad,Exámenes,Fatiga o cansancio,Más de 8 h,Jugar algún deporte,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VII,Sí,Soltero,Prepotencia,Trabajos finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,VIII,Sí,Soltero,Flexibilidad,Exposiciones finales,Desinterés por las clases,Más de 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Empatía,Exposiciones finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Carga de horario,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,7 a 8 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Prepotencia,Exámenes,Fatiga o cansancio,7 a 8 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,Sí,Soltero,Prepotencia,Trabajos grupales,Fatiga o cansancio,7 a 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Prepotencia,Trabajos finales,Desinterés por las clases,7 a 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPAE,VIII,Sí,Soltero,Intolerancia,Trabajos finales,Fatiga o cansancio,7 a 8 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Masculino,EPAE,VIII,No,Soltero,Empatía,Trabajos finales,Desinterés por las clases,Más de 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Más de 10 años,Femenino,EPAE,VII,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de deprimido,Más de 8 h,Jugar algún deporte,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Flexibilidad,Trabajos grupales,Expresión de deprimido,7 a 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,VIII,No,Soltero,Empatía,Trabajos finales,Desinterés por las clases,7 a 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,Saludable
+Más de 10 años,Femenino,EPAE,IX,Sí,Soltero,Empatía,Exámenes,Expresión de deprimido,7 a 8 h,Bailar,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Flexibilidad,Trabajos finales,Fatiga o cansancio,Menos de 7 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,VIII,No,Soltero,Prepotencia,Trabajos grupales,Expresión de deprimido,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPAE,VIII,No,Soltero,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,Menos de 7 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VII,Sí,Soltero,Intolerancia,Trabajos grupales,Expresión de desvelado u ojeroso,Menos de 7 h,Jugar algún deporte,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPAE,VIII,No,Soltero,Flexibilidad,Exámenes,Expresión de desvelado u ojeroso,7 a 8 h,Jugar videojuegos,Dificultad con el material de estudio,No Saludable
+Más de 10 años,Masculino,EPC,V,Sí,Soltero,Empatía,Trabajos finales,Expresión de deprimido,Más de 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPC,V,Sí,Soltero,Flexibilidad,Exposiciones finales,Expresión de deprimido,7 a 8 h,Jugar algún deporte,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPC,V,No,Soltero,Empatía,Trabajos finales,Expresión de desvelado u ojeroso,7 a 8 h,Jugar algún deporte,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Flexibilidad,Trabajos grupales,Desmotivado,7 a 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,Sí,Soltero,Prepotencia,Exámenes,Desmotivado,7 a 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPC,V,No,Soltero,Flexibilidad,Trabajos grupales,Desmotivado,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPC,V,Sí,Soltero,Empatía,Trabajos grupales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,Sí,Soltero,Prepotencia,Trabajos grupales,Expresión de deprimido,7 a 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Más de 10 años,Femenino,EPC,V,Sí,Otro,Prepotencia,Trabajos grupales,Expresión de deprimido,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPC,V,Sí,Soltero,Empatía,Trabajos grupales,Fatiga o cansancio,Más de 8 h,Bailar,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,Sí,Soltero,Intolerancia,Trabajos finales,Desinterés por las clases,Más de 8 h,Bailar,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPC,V,No,Soltero,Flexibilidad,Trabajos grupales,Fatiga o cansancio,Menos de 7 h,Jugar algún deporte,Dificultad para concentrarte,No Saludable
+Más de 10 años,Masculino,EPC,V,No,Soltero,Intolerancia,Trabajos grupales,Desinterés por las clases,Menos de 7 h,Bailar,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Prepotencia,Trabajos grupales,Expresión de deprimido,Menos de 7 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Flexibilidad,Exámenes,Expresión de deprimido,Más de 8 h,Jugar algún deporte,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPC,V,Sí,Soltero,Empatía,Exposiciones finales,Desmotivado,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,Más de 8 h,Jugar videojuegos,Carga de horario,Saludable
+Más de 10 años,Femenino,EPC,V,No,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,7 a 8 h,Bailar,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Prepotencia,Trabajos grupales,Fatiga o cansancio,Más de 8 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Empatía,Exposiciones finales,Expresión de deprimido,Más de 8 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Intolerancia,Trabajos grupales,Desmotivado,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPC,V,Sí,Soltero,Prepotencia,Exposiciones finales,Desinterés por las clases,Menos de 7 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Empatía,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,Bailar,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPC,V,Sí,Soltero,Empatía,Exámenes,Desinterés por las clases,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPC,V,No,Soltero,Intolerancia,Trabajos finales,Desmotivado,Más de 8 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPC,VI,Sí,Soltero,Intolerancia,Trabajos finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPC,VI,Sí,Soltero,Empatía,Exposiciones finales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,No Saludable
+Más de 10 años,Femenino,EPC,VI,Sí,Soltero,Empatía,Exámenes,Fatiga o cansancio,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Más de 10 años,Masculino,EPC,VI,Sí,Soltero,Prepotencia,Trabajos grupales,Desinterés por las clases,7 a 8 h,Jugar algún deporte,Carga de horario,Saludable
+Más de 10 años,Femenino,EPC,VI,No,Soltero,Intolerancia,Trabajos finales,Desinterés por las clases,Menos de 7 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPC,II,No,Soltero,Flexibilidad,Trabajos grupales,Desmotivado,7 a 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPC,II,Sí,Soltero,Flexibilidad,Exposiciones finales,Desmotivado,Más de 8 h,No me alcanza tiempo,Carga de horario,No Saludable
+Entre 08 a 10 años,Masculino,EPC,II,No,Soltero,Prepotencia,Trabajos grupales,Desmotivado,Más de 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Más de 10 años,Masculino,EPC,II,Sí,Soltero,Empatía,Trabajos finales,Expresión de deprimido,Más de 8 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPC,II,Sí,Soltero,Prepotencia,Exámenes,Expresión de deprimido,7 a 8 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPC,II,Sí,Soltero,Prepotencia,Trabajos grupales,Desinterés por las clases,Menos de 7 h,Bailar,Dificultad con el material de estudio,Saludable
+Menos de 08 años,Masculino,EPC,II,Sí,Soltero,Prepotencia,Trabajos finales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Masculino,EPC,II,Sí,Soltero,Intolerancia,Trabajos finales,Desinterés por las clases,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPC,II,No,Soltero,Flexibilidad,Exámenes,Desmotivado,7 a 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPC,II,No,Otro,Flexibilidad,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,Jugar algún deporte,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPC,II,No,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,Más de 8 h,Bailar,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPC,II,Sí,Soltero,Flexibilidad,Trabajos finales,Desmotivado,7 a 8 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPC,II,No,Soltero,Empatía,Exámenes,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPC,II,No,Soltero,Prepotencia,Exámenes,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Más de 10 años,Femenino,EPC,II,No,Soltero,Flexibilidad,Trabajos finales,Fatiga o cansancio,Más de 8 h,Bailar,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPC,II,Sí,Soltero,Prepotencia,Exámenes,Desinterés por las clases,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,Saludable
+Entre 08 a 10 años,Masculino,EPC,II,Sí,Soltero,Prepotencia,Trabajos grupales,Fatiga o cansancio,Más de 8 h,Jugar algún deporte,Carga de horario,Saludable
+Más de 10 años,Femenino,EPC,II,No,Conviviente,Flexibilidad,Trabajos finales,Desinterés por las clases,Más de 8 h,Jugar algún deporte,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPC,II,Sí,Soltero,Prepotencia,Exposiciones finales,Desmotivado,Menos de 7 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPC,II,Sí,Conviviente,Flexibilidad,Exámenes,Desmotivado,Menos de 7 h,Jugar algún deporte,Exigencia del curso,Saludable
+Menos de 08 años,Femenino,EPC,II,No,Soltero,Empatía,Exámenes,Desmotivado,Menos de 7 h,Jugar videojuegos,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPC,II,Sí,Soltero,Flexibilidad,Exámenes,Desinterés por las clases,Menos de 7 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Menos de 08 años,Masculino,EPC,II,Sí,Soltero,Empatía,Exámenes,Desinterés por las clases,7 a 8 h,Jugar algún deporte,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Femenino,EPC,II,Sí,Soltero,Flexibilidad,Trabajos grupales,Expresión de desvelado u ojeroso,Más de 8 h,Jugar videojuegos,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Intolerancia,Trabajos finales,Desinterés por las clases,Más de 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,Menos de 7 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Masculino,EPEPI,IV,No,Soltero,Intolerancia,Trabajos grupales,Desinterés por las clases,Más de 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,Sí,Soltero,Intolerancia,Exposiciones finales,Desmotivado,Menos de 7 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,Sí,Soltero,Intolerancia,Trabajos grupales,Fatiga o cansancio,Menos de 7 h,Jugar videojuegos,Carga de horario,No Saludable
+Más de 10 años,Femenino,EPEPI,IV,Sí,Soltero,Prepotencia,Trabajos finales,Desinterés por las clases,Más de 8 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,Sí,Soltero,Flexibilidad,Exposiciones finales,Desmotivado,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,Sí,Soltero,Intolerancia,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,Bailar,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Masculino,EPEPI,IV,No,Soltero,Prepotencia,Trabajos grupales,Desinterés por las clases,7 a 8 h,No me alcanza tiempo,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Flexibilidad,Trabajos finales,Desmotivado,Menos de 7 h,Bailar,Dificultad con el material de estudio,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Intolerancia,Trabajos finales,Fatiga o cansancio,Menos de 7 h,Ausencia de lugares para sentirte mejor,Carga de horario,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,Sí,Soltero,Intolerancia,Exposiciones finales,Desinterés por las clases,Más de 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Más de 10 años,Femenino,EPEPI,IV,No,Soltero,Flexibilidad,Trabajos grupales,Desmotivado,Menos de 7 h,Bailar,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPEPI,IV,Sí,Soltero,Intolerancia,Trabajos grupales,Desinterés por las clases,7 a 8 h,Ausencia de lugares para sentirte mejor,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Masculino,EPEPI,IV,No,Soltero,Prepotencia,Exposiciones finales,Expresión de deprimido,Menos de 7 h,No me alcanza tiempo,Carga de horario,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,Sí,Soltero,Intolerancia,Exámenes,Expresión de desvelado u ojeroso,Menos de 7 h,Jugar algún deporte,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Flexibilidad,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,Jugar algún deporte,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPEPI,IV,Sí,Soltero,Intolerancia,Exposiciones finales,Expresión de desvelado u ojeroso,7 a 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Empatía,Exámenes,Expresión de desvelado u ojeroso,7 a 8 h,Jugar videojuegos,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Masculino,EPEPI,IV,Sí,Soltero,Flexibilidad,Exámenes,Desmotivado,7 a 8 h,Jugar videojuegos,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Intolerancia,Trabajos grupales,Desinterés por las clases,Menos de 7 h,No me alcanza tiempo,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Intolerancia,Trabajos finales,Expresión de desvelado u ojeroso,Más de 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,No,Soltero,Flexibilidad,Exámenes,Desmotivado,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,IV,Sí,Soltero,Intolerancia,Trabajos grupales,Fatiga o cansancio,7 a 8 h,Jugar algún deporte,Carga de horario,Saludable
+Más de 10 años,Masculino,EPEPI,IV,Sí,Soltero,Empatía,Trabajos grupales,Desmotivado,Menos de 7 h,No me alcanza tiempo,Exigencia del curso,Saludable
+Más de 10 años,Masculino,EPEPI,IV,Sí,Soltero,Flexibilidad,Trabajos finales,Desmotivado,7 a 8 h,Bailar,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPEPI,IV,Sí,Soltero,Prepotencia,Exposiciones finales,Expresión de desvelado u ojeroso,Más de 8 h,No me alcanza tiempo,Exigencia del curso,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,Sí,Soltero,Empatía,Trabajos grupales,Desmotivado,Menos de 7 h,Jugar videojuegos,Dejas a última hora las tareas,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,Sí,Soltero,Empatía,Trabajos grupales,Expresión de deprimido,7 a 8 h,Bailar,Dejas a última hora las tareas,Saludable
+Más de 10 años,Masculino,EPEPI,VIII,Sí,Soltero,Prepotencia,Trabajos finales,Desmotivado,Menos de 7 h,Jugar algún deporte,Exigencia del curso,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,No,Soltero,Prepotencia,Exposiciones finales,Fatiga o cansancio,7 a 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPEPI,VIII,No,Soltero,Intolerancia,Trabajos grupales,Expresión de desvelado u ojeroso,7 a 8 h,Jugar algún deporte,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,No,Soltero,Prepotencia,Exposiciones finales,Fatiga o cansancio,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Femenino,EPEPI,VIII,Sí,Soltero,Empatía,Exposiciones finales,Desinterés por las clases,Menos de 7 h,Bailar,Dificultad con el material de estudio,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,Sí,Soltero,Prepotencia,Trabajos finales,Expresión de desvelado u ojeroso,Menos de 7 h,Bailar,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,No,Soltero,Empatía,Exposiciones finales,Desmotivado,Menos de 7 h,Ausencia de lugares para sentirte mejor,Carga de horario,Saludable
+Entre 08 a 10 años,Masculino,EPEPI,I,Sí,Soltero,Empatía,Trabajos finales,Expresión de desvelado u ojeroso,Más de 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,No,Soltero,Flexibilidad,Exposiciones finales,Expresión de desvelado u ojeroso,Más de 8 h,No me alcanza tiempo,Carga de horario,No Saludable
+Entre 08 a 10 años,Femenino,EPEPI,VIII,Sí,Soltero,Prepotencia,Exposiciones finales,Desinterés por las clases,7 a 8 h,Jugar algún deporte,Exigencia del curso,Saludable
+Más de 10 años,Masculino,EPEPI,VIII,No,Soltero,Intolerancia,Trabajos grupales,Expresión de deprimido,7 a 8 h,Bailar,Carga de horario,Saludable
+Más de 10 años,Masculino,EPEPI,VIII,Sí,Soltero,Flexibilidad,Exámenes,Desinterés por las clases,7 a 8 h,Bailar,Dificultad para concentrarte,Saludable
+Más de 10 años,Masculino,EPEPI,I,Sí,Soltero,Empatía,Trabajos finales,Expresión de desvelado u ojeroso,7 a 8 h,No me alcanza tiempo,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPEPI,I,Sí,Casado,Empatía,Trabajos grupales,Expresión de deprimido,7 a 8 h,Ausencia de lugares para sentirte mejor,Dificultad para concentrarte,Saludable
+Más de 10 años,Femenino,EPEPI,I,Sí,Soltero,Intolerancia,Trabajos grupales,Desinterés por las clases,Más de 8 h,Jugar algún deporte,Dificultad para concentrarte,Saludable
+Más de 10 años,Femenino,EPEPI,II,No,Soltero,Empatía,Exposiciones finales,Expresión de deprimido,Menos de 7 h,Bailar,Dificultad con el material de estudio,No Saludable
+Menos de 08 años,Femenino,EPEPI,I,Sí,Soltero,Empatía,Exámenes,Desinterés por las clases,Menos de 7 h,Jugar algún deporte,Dificultad para concentrarte,Saludable
+Entre 08 a 10 años,Masculino,EPEPI,I,Sí,Soltero,Flexibilidad,Trabajos finales,Desinterés por las clases,Más de 8 h,No me alcanza tiempo,Carga de horario,Saludable
+Menos de 08 años,Masculino,EPEPI,I,Sí,Soltero,Prepotencia,Trabajos finales,Desinterés por las clases,Más de 8 h,No me alcanza tiempo,Dejas a última hora las tareas,No Saludable
+Más de 10 años,Femenino,EPEPI,I,No,Soltero,Prepotencia,Exposiciones finales,Fatiga o cansancio,7 a 8 h,Jugar algún deporte,Dificultad para concentrarte,No Saludable
+Más de 10 años,Femenino,EPEPI,I,Sí,Conviviente,Intolerancia,Exámenes,Desmotivado,7 a 8 h,No me alcanza tiempo,Dificultad con el material de estudio,No Saludable
+Menos de 08 años,Femenino,EPEPI,II,Sí,Soltero,Intolerancia,Exposiciones finales,Fatiga o cansancio,Menos de 7 h,No me alcanza tiempo,Carga de horario,No Saludable
+Más de 10 años,Masculino,EPEPI,I,Sí,Conviviente,Prepotencia,Trabajos grupales,Expresión de desvelado u ojeroso,Menos de 7 h,Bailar,Carga de horario,Saludable
+Entre 08 a 10 años,Femenino,EPEPI,I,Sí,Conviviente,Flexibilidad,Exposiciones finales,Expresión de deprimido,Más de 8 h,Ausencia de lugares para sentirte mejor,Dejas a última hora las tareas,No Saludable
+Menos de 08 años,Masculino,EPEPI,I,No,Soltero,Prepotencia,Exposiciones finales,Fatiga o cansancio,Más de 8 h,Jugar videojuegos,Dificultad con el material de estudio,No Saludable

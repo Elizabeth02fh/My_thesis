@@ -1,0 +1,281 @@
+a_moderadas,a_intensas,f_muscular,f_tendones,Diagnostico
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Ninguno,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,Saludable
+2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Ninguno,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Ninguno,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Más de 2 h y 30 min,Menos de 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,No Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Más de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,No Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,No Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,No Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,No Saludable
+Menos de 2 h y 30 min,Más de 2 h y 30 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Más de 2 h y 30 min,Menos de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Más 30 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Ninguno,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Más de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Menos de 15 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Ninguno,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Más de 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Menos de 15 s,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,No Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Más de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,No Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Ninguno,No Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Saludable
+Más de 5 h,1 h y 15 min a 2 h y 30 min,Menos de 2 días,15 a 30 s,No Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Menos de 2 días,Menos de 15 s,No Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Menos de 15 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Ninguno,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Más de 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,Menos de 1 h y 15 min,Igual a 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Igual a 2 días,15 a 30 s,Saludable
+Más de 5 h,Más de 2 h y 30 min,Igual a 2 días,Menos de 15 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
+Menos de 2 h y 30 min,1 h y 15 min a 2 h y 30 min,Igual a 2 días,15 a 30 s,Saludable
+Más de 5 h,Menos de 1 h y 15 min,Menos de 2 días,15 a 30 s,Saludable
+2 h y 30 min a 5 h,Menos de 1 h y 15 min,Menos de 2 días,Más 30 s,Saludable
+2 h y 30 min a 5 h,1 h y 15 min a 2 h y 30 min,Igual a 2 días,Más 30 s,Saludable
