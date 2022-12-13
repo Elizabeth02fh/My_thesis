@@ -29,7 +29,7 @@ KNN y Árboles de decisiones.
 Para los resultados se logró predecir los estilos de vida que adoptan los estudiantes
 universitarios con el modelo predictivo basado en Técnicas de Machine Learning.
 
-** En este repositorio se encuentran los datos recolectados, y los notebook con el lenguaje de programación de Python en Google Colab. **
+*** En este repositorio se encuentran los datos recolectados, y los notebook con el lenguaje de programación de Python en Google Colab. ***
 
 **  Aptitudes o Tecnologías
 
