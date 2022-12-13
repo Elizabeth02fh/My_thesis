@@ -10,9 +10,14 @@ que adoptan los estudiantes universitarios. Se ha considerado una población de 
 estudiantes, por lo que se tomó una muestra de 323 estudiantes, el instrumento de recolección de
 datos utilizado fue la encuesta.
 
-Las etapas que incluyen son: 1. Recopilación de Datos, 2. Selección, Limpieza y
-Transformación, 3. Generación del modelo predictivo, 4. Interpretación y evaluación. En la
-primera etapa, se recolectó registros recolectados mediante una encuesta a los estudiantes
+Las etapas que incluyen son:
+1. Recopilación de Datos
+2. Selección, Limpieza y
+Transformación
+3. Generación del modelo predictivo
+4. Interpretación y evaluación.
+
+En la primera etapa, se recolectó registros recolectados mediante una encuesta a los estudiantes
 universitarios. En la segunda etapa, se realizó el preprocesamiento de datos, el balanceo de datos
 y la selección de características. En la tercera etapa, se utilizó los algoritmos supervisados de
 Machine Learning para crear el modelo predictivo. En la cuarta etapa, se interpretaron y se
