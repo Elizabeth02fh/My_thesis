@@ -19,7 +19,7 @@ Machine Learning para crear el modelo predictivo. En la cuarta etapa, se interpr
 evaluaron los resultados de las métricas de evaluación generadas por los algoritmos de SVM,
 KNN y Árboles de decisiones.
 
-<img src="images/Pipeline.PNG" width="650" height="350" align="right">
+<img src="images/Pipeline.PNG" width="550" height="250" align="right">
 
 Para los resultados se logró predecir los estilos de vida que adoptan los estudiantes
 universitarios con el modelo predictivo basado en Técnicas de Machine Learning.
