@@ -27,7 +27,7 @@ y la selección de características. En la tercera etapa, se utilizó los algori
 Machine Learning para crear el modelo predictivo. En la cuarta etapa, se interpretaron y se
 evaluaron los resultados de las métricas de evaluación generadas por los algoritmos de SVM,
 KNN y Árboles de decisiones.
-
+<img src="images/pipeline.PNG" width="600" height="250">
 Para los resultados se logró predecir los estilos de vida que adoptan los estudiantes
 universitarios con el modelo predictivo basado en Técnicas de Machine Learning. Por lo tanto, se
 concluye que el modelo predictivo basado en Técnicas de Machine Learning sí permite predecir
