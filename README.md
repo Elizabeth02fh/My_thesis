@@ -5,8 +5,7 @@ A continuación presentaré el resumen de este proyecto a grandes rasgos:
 
 En el presente trabajo de investigación se inició a partir de una realidad problemática,
 estilos de vida no saludable que adoptan miles de estudiantes universitarios en el Perú y en el
-mundo durante la etapa universitaria, estos comportamientos inadecuados a largo plazo, llegan a
-causar enfermedades no transmisibles y degenerativas. Por tal razón, se planteó como objetivo
+mundo durante la etapa universitaria, se planteó como objetivo
 general: Predecir los estilos de vida que adoptan los estudiantes universitarios con el modelo
 predictivo basado en Técnicas de Machine Learning. La investigación tuvo como hipótesis: El
 modelo predictivo basado en Técnicas de Machine Learning permite predecir los estilos de vida
@@ -27,7 +26,9 @@ y la selección de características. En la tercera etapa, se utilizó los algori
 Machine Learning para crear el modelo predictivo. En la cuarta etapa, se interpretaron y se
 evaluaron los resultados de las métricas de evaluación generadas por los algoritmos de SVM,
 KNN y Árboles de decisiones.
-<img src="images/pipeline.PNG" width="600" height="250">
+
+<img src="images/Pipeline.PNG" width="650" height="350" align="right">
+
 Para los resultados se logró predecir los estilos de vida que adoptan los estudiantes
 universitarios con el modelo predictivo basado en Técnicas de Machine Learning. Por lo tanto, se
 concluye que el modelo predictivo basado en Técnicas de Machine Learning sí permite predecir
