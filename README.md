@@ -33,4 +33,9 @@ universitarios con el modelo predictivo basado en Técnicas de Machine Learning.
 concluye que el modelo predictivo basado en Técnicas de Machine Learning sí permite predecir
 los estilos de vida que adoptan los estudiantes universitarios.
 
-** En este repositorio se encuentran los datos recolectados, y los notebook que se trabajó en Google Colab. **
+** En este repositorio se encuentran los datos recolectados, y los notebook con el lenguaje de programación de Python en Google Colab. **
+
+**  Aptitudes o Tecnologías
+1 - Python
+2 - Weka
+3 - Google Colab
