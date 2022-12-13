@@ -32,6 +32,9 @@ universitarios con el modelo predictivo basado en Técnicas de Machine Learning.
 ** En este repositorio se encuentran los datos recolectados, y los notebook con el lenguaje de programación de Python en Google Colab. **
 
 **  Aptitudes o Tecnologías
+
 1 - Python
+
 2 - Weka
+
 3 - Google Colab
