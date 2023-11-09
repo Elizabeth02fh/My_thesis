@@ -1,6 +1,7 @@
 ## Tesis_Modelo_predictivo
 
 Autor: Elizabeth Flores Huamaní
+
 Link de la tesis: https://repositorio.unajma.edu.pe/handle/20.500.14168/790
 
 This is my thesis project to obtain a degree in Systems Engineering, entitled Predictive Model of lifestyles for university students based on Machine Learning techniques.
